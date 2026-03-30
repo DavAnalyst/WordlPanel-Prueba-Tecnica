@@ -1,2 +1,2 @@
-# WordlPanel-Prueba-Tecnica
+# WorldPanel-Prueba-Tecnica
 WordlPanel Prueba Tecnica
